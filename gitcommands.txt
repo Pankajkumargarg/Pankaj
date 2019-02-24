@@ -1,0 +1,13 @@
+21  git init
+   22  git inint - to initiate git connection
+   23  git init
+   24  yum install git - to install git on linux
+   25  git init
+   29  git status to check file status for area wise 
+   30  git add linuxcommands.txt  to add from untracked area to commit area
+   31  git status 
+   32  git commit -m"My first commit" to add from commit area to local repository area og git
+   33  git status
+   34  git remote add origin https://github.com/Pankajkumargarg/Pankaj.git connection to git
+   35  git push -u origin master push the files to git 
+   36  history | grep git
